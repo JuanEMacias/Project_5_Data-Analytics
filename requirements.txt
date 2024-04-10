@@ -1,5 +1,4 @@
-conda install --name vehicles_env python 
-conda install --name vehicles_env anaconda::pandas
-conda install --name vehicles_env conda-forge::streamlit
-conda install --name vehicles_env plotly::plotly_express
-conda install --name vehicles_env nbformat
+pandas
+plotly_express
+streamlit
+
