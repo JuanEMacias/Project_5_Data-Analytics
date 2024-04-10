@@ -5,7 +5,7 @@
 En este proyecto, se contruye y despliega una aplicación web para obtener fáciemnte gráficas estadísticas de un dataset de venta de coches.
 Primero se realizó e la creación de un entorno virtual dentro de conda llamado vehicles_env ys e guardaron los requerimeintos en el archivo requirements.txt 
 Se procedió a realizar el análsis exploratorio del dataset el cual se ecuentra en formato .csv, con el nombre de archivo 'vehicle_us.csv'. 
-El análsis del proyecto se realizó en un jupyter notebook y puede ser encontrado en el archivo 'EDA.ipynb' dentro de la carpeta notebooks. 
+El análsis del proyecto se realizó en un jupyter notebook y puede ser encontrado en el archivo 'EDA.ipynb' dentro de la carpeta notebooks, siendo qur todas las gráficas generadas en el notebook se pueden hallar en la aplicación web de render. 
 Finalmente se construyó la aplicación web mediante https://dashboard.render.com, esn esta aplicación mediante la selección de datos en las casillas desginadas podremoos observar laabless gráficas que se consideraron más importantes en el análsis exploratorio de datos. 
 Dichas gráficas son la distribución (mediante hsitogramas) de las variables de modelo del vehículo, año, condición, registro de kilómetros, transmisión y si cuentan o no con tracción a las 4 ruedas. 
 Además se añade una gráfica de dispersión donde observamos como se relacioanan estas varibles con el precio del vehículo. 
