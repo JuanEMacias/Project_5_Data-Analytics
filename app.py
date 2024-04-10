@@ -4,7 +4,7 @@ import plotly.express as px
 import streamlit as st 
 
 #Leemos el conjunto de datos
-car_data = pd.read_csv('vehicles_us,csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 #Añadimos el header 
 st.header(' Gráficas para el conjunto de datos de anuncios de venta de coches')
