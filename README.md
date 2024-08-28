@@ -1,4 +1,4 @@
-<h1 align="center"> Triple Ten Data Analytics: Proyecto Sprint 5 </h1>
+<h1 align="center"> Visualización de análisis exploratorio de datos en Render </h1>
 
 ### Descripción
 ***
